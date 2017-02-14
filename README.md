@@ -1,17 +1,17 @@
-serialproxy.config 
-
-[COMA]
-name=COM5
-baud_rate=19200
-character_size=8
-flow_control=none ; software hardware
-parity=none ; odd even
-stop_bits=1
-
-[COMB]
-name=/dev/ttyS0
-baud_rate=19200
-character_size=8
-flow_control=none
-parity=none
-stop_bits=1
+serialproxy.config<br /> 
+<br />
+[COMA]<br />
+name=COM5<br />
+baud_rate=19200<br />
+character_size=8<br />
+flow_control=none ; software hardware<br />
+parity=none ; odd even<br />
+stop_bits=1<br />
+<br />
+[COMB]<br />
+name=/dev/ttyS0<br />
+baud_rate=19200<br />
+character_size=8<br />
+flow_control=none<br />
+parity=none<br />
+stop_bits=1<br />
